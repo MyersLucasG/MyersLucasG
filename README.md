@@ -2,7 +2,7 @@
 **`Myers Desenvolvedor FullStack`**
 
 Me chamo Lucas Gabriel Vitor Miguel, tenho 18 anos, natural do Minas Gerais.
-Tecnologia é um dos meus hobbies e adiquirir conhecimento pra min não existe tempo sempre buscando aprender mais e mais.Tenho um canal no YouTube nada demais porem pretendo compartilhar o conhecimento adquirido, então fique por dentro.
+Tecnologia é um dos meus hobbies e adiquirir conhecimento pra min não existe tempo , sempre buscando aprender mais e mais.
 
 ---
 
