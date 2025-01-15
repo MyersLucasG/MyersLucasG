@@ -4,23 +4,6 @@
 Me chamo Lucas Gabriel Vitor Miguel, tenho 18 anos, natural do Minas Gerais.
 Tecnologia é um dos meus hobbies e adiquirir conhecimento pra min não existe tempo sempre buscando aprender mais e mais.Tenho um canal no YouTube nada demais porem pretendo compartilhar o conhecimento adquirido, então fique por dentro.
 
-<p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MyersLucasG?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MyersLucasG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -84,7 +67,7 @@ Tecnologia é um dos meus hobbies e adiquirir conhecimento pra min não existe t
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyersLucasG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
